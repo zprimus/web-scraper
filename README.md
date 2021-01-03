@@ -1,2 +1,2 @@
-# web_scraper
+# web-scraper
 Web scraper application
